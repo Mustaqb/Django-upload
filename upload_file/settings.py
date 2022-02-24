@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-)mgwl93#c!ijqqqg!@qyn$#0_lo2@$eyw-kp3kvuslxx2*@1*%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['django-file-upload.herokuapp.com','127.0.0.1','localhost']
 
 
 # Application definition
